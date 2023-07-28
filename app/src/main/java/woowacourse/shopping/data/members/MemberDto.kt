@@ -5,4 +5,8 @@ data class MemberDto(
     val email: String,
     val password: String,
     val grade: String
-)
+) {
+    fun test() { }
+
+    fun test2() { }
+}
