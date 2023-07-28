@@ -7,4 +7,6 @@ data class MemberDto(
     val grade: String
 ) {
     fun test() { }
+
+    fun test2() { }
 }
